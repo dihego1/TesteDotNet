@@ -1,0 +1,13 @@
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Release\netcoreapp3.1\win-x64\TesteDotNet.exe
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Release\netcoreapp3.1\win-x64\TesteDotNet.deps.json
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Release\netcoreapp3.1\win-x64\TesteDotNet.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Release\netcoreapp3.1\win-x64\TesteDotNet.runtimeconfig.dev.json
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Release\netcoreapp3.1\win-x64\TesteDotNet.dll
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Release\netcoreapp3.1\win-x64\TesteDotNet.pdb
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Release\netcoreapp3.1\win-x64\TesteDotNet.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Release\netcoreapp3.1\win-x64\TesteDotNet.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Release\netcoreapp3.1\win-x64\TesteDotNet.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Release\netcoreapp3.1\win-x64\TesteDotNet.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Release\netcoreapp3.1\win-x64\TesteDotNet.dll
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Release\netcoreapp3.1\win-x64\TesteDotNet.pdb
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Release\netcoreapp3.1\win-x64\TesteDotNet.genruntimeconfig.cache

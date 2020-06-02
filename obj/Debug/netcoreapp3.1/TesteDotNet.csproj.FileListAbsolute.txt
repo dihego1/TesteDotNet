@@ -1,0 +1,13 @@
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Debug\netcoreapp3.1\TesteDotNet.exe
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Debug\netcoreapp3.1\TesteDotNet.deps.json
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Debug\netcoreapp3.1\TesteDotNet.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Debug\netcoreapp3.1\TesteDotNet.runtimeconfig.dev.json
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Debug\netcoreapp3.1\TesteDotNet.dll
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\bin\Debug\netcoreapp3.1\TesteDotNet.pdb
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Debug\netcoreapp3.1\TesteDotNet.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Debug\netcoreapp3.1\TesteDotNet.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Debug\netcoreapp3.1\TesteDotNet.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Debug\netcoreapp3.1\TesteDotNet.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Debug\netcoreapp3.1\TesteDotNet.dll
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Debug\netcoreapp3.1\TesteDotNet.pdb
+C:\Users\SAMSUNG\source\repos\TesteDotNet\TesteDotNet\obj\Debug\netcoreapp3.1\TesteDotNet.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zsPVnC0xegTuA3HVRxQbRMpcSpC2noY7dMtuDdhOejkk1D8YJ00x15YD5WAGLYJgIYlcWQUbopje8KFSqQR+rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAMSUNG\\source\\repos\\TesteDotNet\\TesteDotNet\\TesteDotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAMSUNG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
