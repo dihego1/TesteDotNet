@@ -8,6 +8,7 @@ namespace TesteDotNet.View
     public class Menu
     {
 
+        
         public void Opcoes(int op, int num1, int num2, string nomeArquivo=null, string txt=null)
         {
             Calc calc = new Calc();
